@@ -1,0 +1,24 @@
+# this file includes private data do not save on git
+
+# openstack config
+OS_AUTH_URL = ""
+OS_PASSWORD = ""
+OS_REGION_NAME = ""
+OS_TENANT_NAME = ""
+OS_USERNAME = ""
+OPENSTACK_CLOUD = ""
+OPENSTACK_PROVIDER_NET = ""
+OPENSTACK_PRIVATE_NET = ""
+OPENSTACK_FLOATING_IP = ""
+OS_KEYPAIR= ""
+
+# vsphere vcenter details
+VSPHERE_USER = ""
+VSPHERE_PASSWORD = ""
+VSPHERE_SERVER = ""
+VSPHERE_DATACENTER = ""
+VSPHERE_DATASTORE = ""
+VSPHERE_RESOURCE_POOL = ""
+VSPHERE_NETWORK = ""
+VSPHERE_FOLDER = ""
+VSPHERE_CLUSTER = ""
